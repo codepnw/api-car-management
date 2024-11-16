@@ -1,4 +1,4 @@
-package carRepositories
+package carrepositories
 
 import (
 	"context"
